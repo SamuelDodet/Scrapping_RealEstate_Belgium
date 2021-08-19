@@ -119,7 +119,7 @@ To achieve this challenge, here are the main framework use in it:
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-####extract urls:
+#### Extract urls:
    * Multi-threading:
      * extract available house from each province in parallel
     
@@ -161,7 +161,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-###Team Members
+### Team Members
 Samuel Dodet - [@Linkedin](https://www.linkedin.com/in/samuel-dodet/) - samuel.dodet3@gmail.com
 
 Yolann Sabaux - [@Linkedin](https://www.linkedin.com/in/jeremy-lipszyc/) - jeremylipszyc@gmail.com
