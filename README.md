@@ -170,6 +170,6 @@ Yolann Sabaux - [@Linkedin](https://www.linkedin.com/in/samuel-dodet/) - samuel.
 
 Clement Hannecourt - [@Linkedin](https://www.linkedin.com/in/haenecour/) - cl.haenecour@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/SamuelDodet/Hackaton-Bayer/tree/main)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/SamuelDodet/Scrapping_RealEstate_Belgium)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
