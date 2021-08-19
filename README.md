@@ -58,7 +58,7 @@
 The mission is: To collect as much data as possible about the market price of real estate in Belgium, in order to build
 a dataset that can be used later to create an AI.
 
-####Constraints:
+#### Constraints:
 - Get data from all over Belgium.
 - Deliver a .CSV file with a minimum of 10 000 entries.
 - No empty fields.
@@ -68,7 +68,7 @@ a dataset that can be used later to create an AI.
 #### Objective:
 Create a program capable of scraping one (or more ?) real estate websites while respecting all constraints.
 
-####Solution: 
+#### Solution: 
 
 The bot will work in two phases:
 
@@ -100,7 +100,7 @@ To achieve this challenge, here are the main framework use in it:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone git@github.com:SamuelDodet/Scrapping_RealEstate_Belgium.git
    ```
 2. Install NPM packages
    ```sh
