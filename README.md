@@ -4,7 +4,7 @@
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/samuel-dodet/)
 
 
-![First Epoch](https://github.com/SamuelDodet/Hackaton-Bayer/blob/development/app/images/logo.png)
+![Logo](https://github.com/SamuelDodet/Scrapping_RealEstate_Belgium/blob/main/image/logo.png)
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
