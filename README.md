@@ -130,17 +130,6 @@ To achieve this challenge, here are the main framework use in it:
       * 44 features extract from Price to Cadastral Income (see /extract_urls/utils/needed_list.py)
 * Will create your base database containing approximately 50 000 houses(directory : /data_set/db_immoweb.csv)
 
-#### Updating Database
-
-This part is not mandatory to the next that will be to create your prediction price model but we wanted
-to have as much houses as possible. More data mean better model. It is also interesting
-to keep, on tract the evolution of pricing with such a volatile market during Covid-19 Period.
-
-   * Run update_main.py
-     * Will get the last id of the database in order to update it and add new houses added on the website
-      * Will stop continuous 50 id request is not responding
-    
-
 
 <!-- ROADMAP -->
 ## Conclusion
