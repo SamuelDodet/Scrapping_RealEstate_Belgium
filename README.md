@@ -166,7 +166,7 @@ Samuel Dodet - [@Linkedin](https://www.linkedin.com/in/samuel-dodet/) - samuel.d
 
 Jeremy Lipszic - [@Linkedin](https://www.linkedin.com/in/jeremy-lipszyc/) - jeremylipszyc@gmail.com
 
-Yolann Sabaux - [@Linkedin](https://www.linkedin.com/in/samuel-dodet/) - samuel.dodet3@gmail.com
+Yolann Sabaux - [@Linkedin](https://www.linkedin.com/in/yolannsabaux/) - yolann.sabaux@gmail.com
 
 Clement Hannecourt - [@Linkedin](https://www.linkedin.com/in/haenecour/) - cl.haenecour@gmail.com
 
