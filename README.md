@@ -74,8 +74,7 @@ The bot will work in two phases:
 
 - Creating a base Database of URLs from Immoweb of houses available.
 - Scrap this list of Url with all features that light be relevant for the AI price predictor.
-- Once the database is created, run update_main.py to update all new houses appearing
-on the website based on the last id scrap from the first created DB
+
   
 Note that multithreading will be use in order to optimize time execution
   
