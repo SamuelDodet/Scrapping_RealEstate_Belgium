@@ -102,7 +102,7 @@ To achieve this challenge, here are the main framework use in it:
    ```sh
    git clone git@github.com:SamuelDodet/Scrapping_RealEstate_Belgium.git
    ```
-2. Install NPM packages
+2. Install requirement
    ```sh
    pip install requirement.txt
    ```
